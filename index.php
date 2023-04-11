@@ -8,6 +8,11 @@
 </head>
 <body>
     <p>ladasada sad udara</p>
-    <h1>sad metha</h1>  
+    <h1>sad metha</h1>
+    <div class="container-fluid">
+        <div class="row">
+            <h2>Boostrap text</h2>
+        </div>
+    </div>  
 </body>
 </html>
